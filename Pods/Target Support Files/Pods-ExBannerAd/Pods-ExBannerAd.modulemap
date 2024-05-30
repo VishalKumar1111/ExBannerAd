@@ -1,0 +1,6 @@
+framework module Pods_ExBannerAd {
+  umbrella header "Pods-ExBannerAd-umbrella.h"
+
+  export *
+  module * { export * }
+}
